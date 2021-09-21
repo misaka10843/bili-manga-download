@@ -4,9 +4,9 @@ bilibili漫画下载器（支持输出json索引）
 
 <img src="https://img.shields.io/badge/Python-3.9+（简要支持2.7+）-326c9c?style=for-the-badge&logo=Python&logoColor=326c9c"/>
 
-## 目录
+## Bug索引
 
-[toc]
+1.无法进行断点续传，以及关闭程序后重启继续下载
 
 ## 简介
 
